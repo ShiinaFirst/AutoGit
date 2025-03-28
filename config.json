@@ -1,0 +1,6 @@
+{
+	"work_dir": ".",
+	"backup_dir": "backup",
+	"log_file": "runtime.log",
+	"cron_expression": "*/1 * * * * *"
+}
